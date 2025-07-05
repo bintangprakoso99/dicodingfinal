@@ -7,7 +7,7 @@
 
 ## Deployment URL
 - **Production URL**: https://voluble-douhua-f63e4b.netlify.app/
-- **GitHub Repository**: https://voluble-douhua-f63e4b.netlify.app/
+- **GitHub Repository**: https://github.com/bintangprakoso99/dicodingfinal
 
 ## API Integration
 - **Story API**: https://story-api.dicoding.dev/v1
